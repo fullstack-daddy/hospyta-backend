@@ -1,4 +1,3 @@
-```
 # Hospyta Backend API
 
 This is the backend API for the Hospyta mobile application, built using Node.js, Express, and MongoDB. The API provides endpoints for user authentication, post management, and interactions such as upvoting, downvoting, and commenting on posts.
