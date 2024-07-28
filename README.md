@@ -15,6 +15,7 @@ This is the backend API for the Hospyta mobile application, built using Node.js,
 - [Error Handling](#error-handling)
 - [Contributing](#contributing)
 - [License](#license)
+- [Postman Ducumentation](#postman-documentation)
 
 ## Getting Started
 
@@ -433,3 +434,7 @@ All error responses follow this format:
 This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
 
 This `README.md` provides a comprehensive guide for setting up and running the project, as well as detailed documentation for each API endpoint. It should serve as a helpful resource for developers working on or using your backend API.
+
+## Postman Documentation
+
+You can find a more detailed sample requests/payload for each endpoint. https://documenter.getpostman.com/view/22620209/2sA3kaBdtM
