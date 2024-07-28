@@ -431,6 +431,5 @@ All error responses follow this format:
 ## License
 
 This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
-```
 
 This `README.md` provides a comprehensive guide for setting up and running the project, as well as detailed documentation for each API endpoint. It should serve as a helpful resource for developers working on or using your backend API.
